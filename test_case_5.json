@@ -1,0 +1,13 @@
+{
+    "warehouses": {
+        "W1": [10, 10],
+        "W2": [50, 50]
+    },
+    "agents": {
+        "A1": [0, 0]
+    },
+    "packages": [
+        {"id": "P1", "warehouse": "W1", "destination": [20, 20]},
+        {"id": "P2", "warehouse": "W2", "destination": [60, 60]}
+    ]
+}
